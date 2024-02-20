@@ -1,4 +1,3 @@
-# PrototypeConsoleDevAL
 # Ignore all files by default, but scan all directories.
 *
 !*/
